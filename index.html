@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#08121e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="BarGig Rute">
+  <title>BarGig Rute</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark">B</span><span><strong>BarGig</strong><small>Rute & vizite</small></span></div>
+    <div class="top-actions">
+      <span id="offlineState" class="offline-pill"><i></i><span>Offline pregătit</span></span>
+      <button class="icon-button" id="backupButton" aria-label="Backup și restaurare" title="Backup și restaurare">⇩</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p class="eyebrow">AGENDA COMERCIALĂ</p>
+        <h1 id="greeting">Bună! Ce vizităm astăzi?</h1>
+        <p class="muted">Planifică opririle, notează discuțiile și urmărește următorul pas.</p>
+      </div>
+      <button class="primary" id="newVisitButton">＋ Adaugă vizită</button>
+    </section>
+
+    <section class="stats" id="stats"></section>
+
+    <nav class="tabs" aria-label="Secțiuni">
+      <button class="tab active" data-view="agenda">Agenda</button>
+      <button class="tab" data-view="pipeline">Pipeline</button>
+      <button class="tab" data-view="insights">Sumar</button>
+    </nav>
+
+    <section id="agendaView" class="view active">
+      <div class="toolbar">
+        <label class="date-control"><span>Ziua</span><input type="date" id="dateFilter"></label>
+        <label class="search"><span>⌕</span><input type="search" id="searchInput" placeholder="Caută locație, adresă, oraș…"></label>
+        <label class="select-control"><span>Oraș</span><select id="cityFilter"><option value="">Toate</option></select></label>
+      </div>
+      <div class="day-summary" id="daySummary"></div>
+      <div class="visit-list" id="visitList"></div>
+      <div class="empty hidden" id="emptyAgenda"><div>◎</div><h2>Nicio vizită în această zi</h2><p>Adaugă o oprire sau alege o altă dată.</p><button class="secondary" id="emptyAdd">Adaugă vizită</button></div>
+    </section>
+
+    <section id="pipelineView" class="view">
+      <div class="pipeline-controls">
+        <label class="search"><span>⌕</span><input type="search" id="pipelineSearch" placeholder="Caută în toate locațiile…"></label>
+        <label class="select-control"><span>Status</span><select id="statusFilter"><option value="">Toate</option></select></label>
+      </div>
+      <div class="pipeline-grid" id="pipelineGrid"></div>
+    </section>
+
+    <section id="insightsView" class="view">
+      <div class="insight-grid" id="insightGrid"></div>
+      <article class="panel">
+        <div class="panel-head"><div><p class="eyebrow">OPORTUNITĂȚI</p><h2>Interes comercial înregistrat</h2></div></div>
+        <div id="offerBreakdown" class="offer-breakdown"></div>
+      </article>
+    </section>
+  </main>
+
+  <dialog id="visitDialog" class="sheet">
+    <form id="visitForm" method="dialog">
+      <div class="sheet-head"><div><p class="eyebrow" id="dialogEyebrow">VIZITĂ</p><h2 id="dialogTitle">Adaugă vizită</h2></div><button type="button" class="close" id="closeDialog" aria-label="Închide">×</button></div>
+      <input type="hidden" id="visitId">
+      <div class="form-grid">
+        <label class="wide">Locație<input id="name" required autocomplete="organization"></label>
+        <label>Oraș<input id="city" required autocomplete="address-level2"></label>
+        <label>Tip locație<input id="type" placeholder="Restaurant, pub, cafenea…"></label>
+        <label class="wide">Adresă<input id="address" autocomplete="street-address"></label>
+        <label>Data<input type="date" id="visitDate" required></label>
+        <label>Ora<input type="time" id="visitTime"></label>
+        <label>Telefon<input type="tel" id="phone" inputmode="tel"></label>
+        <label>Status<select id="status"></select></label>
+        <label>Nume decident<input id="decisionMaker"></label>
+        <label>Rol decident<input id="decisionRole" placeholder="Manager, proprietar…"></label>
+        <label>Follow-up<input type="date" id="followUp"></label>
+        <label>Prioritate<select id="priority"><option>P1</option><option selected>P2</option><option>P3</option></select></label>
+      </div>
+
+      <fieldset><legend>Ce îi propun?</legend><div class="offer-checks">
+        <label><input type="checkbox" id="offerShifts"><span><b>Ture BarGig</b><small>Personal flexibil, plata la Match</small></span></label>
+        <label><input type="checkbox" id="offerEvents"><span><b>Evenimente gratuite</b><small>Vizibilitate în agenda BarGig</small></span></label>
+        <label><input type="checkbox" id="offerHosting"><span><b>BarGig WebSpace</b><small>Website la nume.bargig.ro</small></span></label>
+      </div></fieldset>
+
+      <label class="block">Rezumat / comentarii<textarea id="notes" rows="5" placeholder="Ce am discutat? Obiecții, nevoi, următorul pas…"></textarea></label>
+      <label class="block">Pitch recomandat<textarea id="pitch" rows="3"></textarea></label>
+
+      <div class="photo-section">
+        <div class="photo-head"><div><p class="eyebrow">FOTOGRAFII</p><p class="muted small">Pozele rămân doar pe acest dispozitiv.</p></div><label class="secondary file-button">＋ Adaugă<input type="file" id="photoInput" accept="image/*" capture="environment" multiple></label></div>
+        <div class="photos" id="photoGallery"></div>
+      </div>
+
+      <div class="sheet-actions"><button type="button" class="danger ghost" id="deleteVisit">Șterge</button><span></span><button type="button" class="secondary" id="openMaps">Deschide harta</button><button type="submit" class="primary">Salvează</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="backupDialog" class="compact-dialog">
+    <div class="sheet-head"><div><p class="eyebrow">DATELE TALE</p><h2>Backup și restaurare</h2></div><button type="button" class="close" id="closeBackup" aria-label="Închide">×</button></div>
+    <p class="muted">Exportă periodic un backup. Include vizitele, comentariile și fotografiile.</p>
+    <div class="backup-actions"><button class="primary" id="exportJson">Exportă backup complet</button><button class="secondary" id="exportCsv">Exportă tabel CSV</button><label class="secondary file-button">Importă backup<input type="file" id="importJson" accept="application/json"></label></div>
+    <p class="tiny muted">Importul adaugă sau actualizează înregistrările cu același ID.</p>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="seed.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

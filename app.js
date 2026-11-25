@@ -19,6 +19,12 @@
   };
   const esc = value => String(value ?? "").replace(/[&<>'"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c]));
   const uid = () => crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random().toString(16).slice(2)}`;
+  const normalizeInputDate = value => {
+    const raw = String(value || "").trim();
+    if (/^\d{4}-\d{2}-\d{2}$/.test(raw)) return raw;
+    const ro = raw.match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+    return ro ? `${ro[3]}-${ro[2].padStart(2, "0")}-${ro[1].padStart(2, "0")}` : "";
+  };
   const showToast = message => { clearTimeout(toastTimer); $("toast").textContent = message; $("toast").classList.add("show"); toastTimer = setTimeout(() => $("toast").classList.remove("show"), 2400); };
 
   function openDb() {
@@ -63,11 +69,22 @@
     const seedById = new Map(window.BARGIG_SEED.map(v => [v.id, v]));
     const seedByName = new Map(window.BARGIG_SEED.map(v => [`${v.name}|${v.city}`.toLowerCase(), v]));
     for (const visit of await allVisits()) {
-      if ((visit.websiteDataVersion || 0) >= 1) continue;
       const source = seedById.get(visit.id) || seedByName.get(`${visit.name}|${visit.city}`.toLowerCase());
       if (!source) continue;
-      const websiteData = Object.fromEntries(websiteFields.map(field => [field, source[field] ?? ""]));
-      await saveVisit({ ...visit, ...websiteData });
+      const version = visit.websiteDataVersion || 0;
+      if (version >= 2) continue;
+      if (version < 1) {
+        const websiteData = Object.fromEntries(websiteFields.map(field => [field, source[field] ?? ""]));
+        websiteData.websiteCheckedAt = normalizeInputDate(source.websiteCheckedAt);
+        websiteData.websiteDataVersion = 2;
+        await saveVisit({ ...visit, ...websiteData });
+      } else {
+        await saveVisit({
+          ...visit,
+          websiteCheckedAt: normalizeInputDate(visit.websiteCheckedAt || source.websiteCheckedAt),
+          websiteDataVersion: 2
+        });
+      }
     }
   }
   async function refresh() {

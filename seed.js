@@ -25,7 +25,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/club.darc.timisoara/",
+    "websiteSource": "https://visit-timis.ro/ro/places/d-arc",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Prezență activă pe Facebook; domeniul vechi darc.ro apare în surse vechi, dar nu a fost confirmat ca site actual.",
+    "websiteImprovement": "Lansați un domeniu propriu cu program, evenimente, rezervări și meniu; redirecționați domeniul vechi dacă este încă deținut.",
+    "websiteOperationalNote": "Confirmat la adresă; website propriu actual neconfirmat.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-002",
@@ -53,7 +66,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://mbistro.ro/",
+    "websiteSource": "https://mbistro.ro/contact/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site funcțional cu meniu, rezervări, program și contact; pe site apare Piața Unirii 14, în timp ce ruta indică nr. 4.",
+    "websiteImprovement": "Corectați/clarificați adresa pe toate paginile și în datele structurate; adăugați rezervare cu confirmare și pagină pentru evenimente/grupuri.",
+    "websiteOperationalNote": "Adresă contradictorie între fișier și site; verificați înaintea vizitei.",
+    "websitePriority": "P3",
+    "contactPriority": "P1 – verificare",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-003",
@@ -81,7 +107,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/TheTubeTimisoara/",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Nu a fost identificat un domeniu propriu actual; sursele locale trimit la Facebook.",
+    "websiteImprovement": "Creați o pagină rapidă, mobilă, cu meniu, program live, rezervare WhatsApp și calendar de evenimente.",
+    "websiteOperationalNote": "Locația este identificată, dar website-ul propriu lipsește.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-004",
@@ -109,7 +148,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/InThymeTimisoara/",
+    "websiteSource": "https://restaurantguru.com/In-Thyme-Timisoara",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Prezența publică este concentrată pe Facebook/Instagram; nu a fost găsit domeniu propriu.",
+    "websiteImprovement": "Construiți un landing page cu meniu HTML, rezervări, alergeni, program și hartă; legați profilurile sociale la același domeniu.",
+    "websiteOperationalNote": "Website propriu negăsit; locația și telefonul sunt confirmate de surse terțe.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-005",
@@ -137,7 +189,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Meniu digital",
+    "websiteUrl": "https://scotlandyard.123qr.ro/",
+    "websiteSource": "https://www.restaurants10.com/RO/Timisoara/192746577901154/The-Scotland-Yard---Gastropub",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Există un meniu pe platformă QR, dar nu o experiență web completă de brand.",
+    "websiteImprovement": "Adăugați domeniu propriu, pagină de rezervări, program sport/evenimente și un CTA clar pentru grupuri.",
+    "websiteOperationalNote": "Locație activă; prezența web este dependentă de platformă.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-006",
@@ -165,7 +230,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/steakhousetimisoara/",
+    "websiteSource": "https://zilesinopti.ro/locuri/grill-to-chill/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Nu a fost confirmat un site propriu; rezervările și comunicarea sunt dispersate în social media.",
+    "websiteImprovement": "Creați site cu meniu actualizat, rezervări, proveniența cărnii, evenimente și LocalBusiness schema.",
+    "websiteOperationalNote": "Website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-007",
@@ -193,7 +271,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://lacalulalb.ro/",
+    "websiteSource": "https://lacalulalb.ro/contact-en/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site complet cu meniu și contact, dar conținutul bilingv este fragmentat în URL-uri separate și designul pare vechi.",
+    "websiteImprovement": "Modernizați navigarea mobilă, unificați limbile, adăugați rezervare instant și date structurate pentru meniu/program.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-008",
@@ -221,7 +312,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://elmaguey.ro/timisoara/",
+    "websiteSource": "https://24tm.ro/el-maguey-mancare-autentica-mexicana-in-inima-timisoarei/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Pagina oficială a locației este identificabilă și corespunde adresei.",
+    "websiteImprovement": "Puneți meniul, rezervarea și programul de Timișoara deasupra foldului; adăugați conținut local și marcaj Restaurant schema.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-009",
@@ -249,7 +353,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://vinto.ro/",
+    "websiteSource": "https://vinto.ro/termeni-si-conditii/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site actual, cu meniu, shop și informații de contact; oferta este împărțită între vinto.ro și vintoshop.ro.",
+    "websiteImprovement": "Simplificați traseul meniu–rezervare–shop, adăugați pagină pentru evenimente corporate și urmăriți conversiile pe locație.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-010",
@@ -277,7 +394,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/augustpastabar/",
+    "websiteSource": "https://bookingham.ro/timisoara/restaurante/august-pasta-bar/1094",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Nu a fost găsit domeniu propriu; meniul și rezervările apar pe Facebook/terți.",
+    "websiteImprovement": "Creați site propriu cu meniu HTML, rezervare, program și diferențiatori pentru paste proaspete; evitați PDF-only.",
+    "websiteOperationalNote": "Locația este confirmată; website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-011",
@@ -305,7 +435,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Nu am găsit website oficial",
+    "websitePresence": "Fără domeniu confirmat",
+    "websiteUrl": "",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Căutarea după nume, adresă și oraș nu a produs un website oficial confirmabil.",
+    "websiteImprovement": "Creați o pagină locală cu identitate clară, program, meniu, rezervare/WhatsApp și linkuri sociale verificate.",
+    "websiteOperationalNote": "Prezența web nu a putut fi confirmată suficient; validați telefonic existența locației.",
+    "websitePriority": "P1",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-012",
@@ -333,7 +476,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.narubistro.ro/",
+    "websiteSource": "https://www.narubistro.ro/contact/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site propriu cu date de contact; funcționalitatea de rezervare și actualitatea meniului nu sunt evidente din rezultatele indexate.",
+    "websiteImprovement": "Faceți meniul și rezervarea vizibile imediat, publicați programul și adăugați pagină pentru evenimente/servicii de grup.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-013",
@@ -361,7 +517,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/PoshTM/",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Sursele locale indică doar Facebook; nu a fost confirmat un domeniu propriu.",
+    "websiteImprovement": "Lansați site cu meniu, rezervări, evenimente și galerii optimizate; folosiți un domeniu ușor de diferențiat de alte branduri POSH.",
+    "websiteOperationalNote": "Website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-014",
@@ -389,7 +558,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu cu nealiniere de brand",
+    "websiteUrl": "https://www.spillerfruit.com/",
+    "websiteSource": "https://www.spillerfruit.com/contact/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Conținutul este pentru Restaurant Whisper, dar domeniul spillerfruit.com nu corespunde brandului; restaurantwhisper.ro apare în surse/PDF.",
+    "websiteImprovement": "Mutați sau redirecționați către restaurantwhisper.ro, consolidați SEO local și adăugați rezervare și meniu HTML actualizat.",
+    "websiteOperationalNote": "Website și adresă confirmate; domeniul creează confuzie.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-015",
@@ -417,7 +599,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.lloydtimisoara.ro/",
+    "websiteSource": "https://www.linkedin.com/company/lloyd-timisoara/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site oficial actual identificat; în surse mai vechi apare și restaurantlloyd.ro.",
+    "websiteImprovement": "Consolidați toate domeniile către unul singur, creați pagini pentru evenimente corporate și rezervări de grup, cu tracking separat.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-016",
@@ -445,7 +640,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Platformă de rezervări/meniu",
+    "websiteUrl": "https://www.smart-menu.ro/vittoriadelgusto?m=book-a-table&ref=g",
+    "websiteSource": "https://deschis.ro/timisoara/vittoria-del-gusto-183812",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Prezența principală este pe Smart Menu și Facebook, fără domeniu propriu confirmat.",
+    "websiteImprovement": "Creați domeniu propriu cu meniu, rezervare și poveste de brand; păstrați Smart Menu ca motor integrat, nu ca destinație principală.",
+    "websiteOperationalNote": "Locație confirmată; website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-017",
@@ -473,7 +681,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu multi-locație",
+    "websiteUrl": "https://littlehanoi.ro/",
+    "websiteSource": "https://littlehanoi.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site modern cu locații și comandă; adresa Timișoara este confirmată.",
+    "websiteImprovement": "Adăugați pagină dedicată Timișoara cu SEO local, disponibilitate pe ture și formular pentru grupuri/catering.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-018",
@@ -501,7 +722,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://locandadelcorso.ro/",
+    "websiteSource": "https://locandadelcorso.ro/ro/contact",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site propriu cu contact și rezervări; face parte din Del Corso Group.",
+    "websiteImprovement": "Evidențiați evenimentele, grupurile și carierele; conectați profilul locației cu grupul pentru cross-sell și recrutare multi-site.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-019",
@@ -529,7 +763,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://riyosushi.ro/",
+    "websiteSource": "https://riyosushi.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site bogat în conținut și meniu, dar pagina este lungă și repetitivă pe mobil.",
+    "websiteImprovement": "Scurtați pagina principală, puneți comanda/rezervarea persistentă, optimizați imaginile și separați clar meniul Wok de Sushi.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-020",
@@ -557,7 +804,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Nu am găsit website oficial",
+    "websitePresence": "Fără domeniu confirmat",
+    "websiteUrl": "",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Nu a fost identificat un domeniu sau profil oficial suficient de clar pentru locația de la Alba Iulia 7.",
+    "websiteImprovement": "Confirmați existența și denumirea comercială; apoi creați landing page cu meniu, program, rezervări și hartă.",
+    "websiteOperationalNote": "Identitatea online nu a putut fi confirmată; validați înaintea vizitei.",
+    "websitePriority": "P1",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-021",
@@ -585,7 +845,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.fabrika-timisoara.ro/",
+    "websiteSource": "https://www.fabrika-timisoara.ro/qr-iulius",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site propriu cu meniu QR pentru Iulius; sunt folosite și variantele atfabrika.ro/fabrika-timisoara.ro.",
+    "websiteImprovement": "Consolidați domeniile, creați pagină de locație Iulius cu rezervări și evenimente și evitați dependența exclusivă de QR.",
+    "websiteOperationalNote": "Website și locație confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-022",
@@ -613,7 +886,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://chousemilanoromania.ro/",
+    "websiteSource": "https://chousemilanoromania.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site propriu cu program și contact; există și pagina internațională chouseitalia.com.",
+    "websiteImprovement": "Consolidați semnalele SEO dintre domeniul românesc și cel internațional, adăugați rezervare directă și meniu accesibil HTML.",
+    "websiteOperationalNote": "Website și locație confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-023",
@@ -641,7 +927,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial neconfirmat",
+    "websitePresence": "Domeniu menționat în surse",
+    "websiteUrl": "https://czechitout.ro/",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniul czechitout.ro este menționat de sursa locală, dar nu a putut fi accesat/confirmat în verificare.",
+    "websiteImprovement": "Verificați proprietatea și disponibilitatea domeniului; dacă este inactiv, relansați o pagină cu meniu, program, rezervare și evenimente sportive.",
+    "websiteOperationalNote": "Locația este listată de Iulius Town; website-ul nu a putut fi confirmat.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-024",
@@ -669,7 +968,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.little-italy.ro/ro",
+    "websiteSource": "https://www.little-italy.ro/ro",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site actual; brandul apare ca Little Italy Trattoria/by Prime, în timp ce ruta spune Ristorante.",
+    "websiteImprovement": "Unificați denumirea pe site, Iulius și Google; păstrați un singur CTA de rezervare și pagină locală cu ofertă de grup.",
+    "websiteOperationalNote": "Website și locație confirmate; denumirea trebuie aliniată.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-025",
@@ -697,7 +1009,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Subdomeniu propriu",
+    "websiteUrl": "https://timisoara.fenicepalas.ro/",
+    "websiteSource": "https://bookingham.ro/timisoara/restaurante/fenice-palas/1081",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Subdomeniu dedicat Timișoara și meniu oficial; pagina Iulius confirmă locația.",
+    "websiteImprovement": "Actualizați meniul în format HTML, adăugați cerere de ofertă pentru evenimente și rezervări pentru grupuri mari.",
+    "websiteOperationalNote": "Website și locație confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-026",
@@ -725,7 +1050,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://kai.ro/ro",
+    "websiteSource": "https://kai.ro/ro",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site vizual cu program și evenimente; propunerea de valoare este clară, dar rezervarea trebuie să rămână ușor accesibilă.",
+    "websiteImprovement": "Adăugați CTA persistent de rezervare, calendar structurat de evenimente și formular pentru corporate/private events.",
+    "websiteOperationalNote": "Website și locație confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-027",
@@ -753,7 +1091,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial neconfirmat",
+    "websitePresence": "Brand comun",
+    "websiteUrl": "https://pescada.ro/",
+    "websiteSource": "https://www.iuliustown.ro/ro/dining/restaurante",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniul Pescada confirmă locația Sever Bocu, dar nu expune clar locația Porto din Iulius Town.",
+    "websiteImprovement": "Creați pagină dedicată Pescada Porto cu adresă, program, meniu și rezervare; separați cele două locații în schema LocalBusiness.",
+    "websiteOperationalNote": "Locația Porto este listată în rută/Iulius, dar pagina oficială dedicată nu a fost confirmată.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-028",
@@ -781,7 +1132,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/LaTrattoriaBistroLounge/",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Sursele locale indică Facebook, fără domeniu propriu confirmat pentru locația Iulius.",
+    "websiteImprovement": "Creați site de locație cu meniu, rezervări și evenimente; diferențiați clar această La Trattoria de localurile omonime.",
+    "websiteOperationalNote": "Locația este listată; website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-029",
@@ -809,7 +1173,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial neconfirmat",
+    "websitePresence": "Domeniu menționat în surse",
+    "websiteUrl": "https://daily-timisoara.ro/",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniul este menționat de sursa locală, dar nu a putut fi accesat în verificare.",
+    "websiteImprovement": "Verificați uptime-ul, certificatul și indexarea; relansați o pagină rapidă cu meniu, program și rezervare dacă domeniul este inactiv.",
+    "websiteOperationalNote": "Locația este listată de Iulius; website-ul nu a putut fi confirmat.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-030",
@@ -837,7 +1214,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website confirmat; locație de reverificat",
+    "websitePresence": "Domeniu propriu multi-locație",
+    "websiteUrl": "https://tavernaracilor.ro/contact/",
+    "websiteSource": "https://tavernaracilor.ro/contact/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site-ul oficial listează Timișoara, dar o sursă recentă indică închiderea definitivă; numerele de telefon diferă între surse.",
+    "websiteImprovement": "Actualizați imediat pagina de locație și Google/partenerii; afișați statutul real, telefonul unic și ultima actualizare.",
+    "websiteOperationalNote": "Conflict major privind funcționarea; confirmați înaintea vizitei și înlocuiți oprirea dacă este închisă.",
+    "websitePriority": "P1",
+    "contactPriority": "P1 – verificare",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-031",
@@ -865,7 +1255,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://analugojana.ro/",
+    "websiteSource": "https://analugojana.ro/contact/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site propriu cu program, adresă și rezervări; textul de contact conține mici erori de redactare.",
+    "websiteImprovement": "Corectați textele/programul, adăugați meniu HTML și formular de evenimente; implementați schema Restaurant.",
+    "websiteOperationalNote": "Website și locație confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-032",
@@ -893,7 +1296,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website confirmat; locație de reverificat",
+    "websitePresence": "Subdomeniu propriu",
+    "websiteUrl": "https://timisoara.enjoysushi.ro/",
+    "websiteSource": "https://timisoara.enjoysushi.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site-ul oficial afișează Str. Enrico Caruso 2, nu adresa Iulius Town din rută.",
+    "websiteImprovement": "Corectați ruta/CRM și toate listările; creați pagini separate dacă există două locații și afișați clar pickup/delivery vs dine-in.",
+    "websiteOperationalNote": "Adresă contradictorie; vizita la Iulius trebuie confirmată.",
+    "websitePriority": "P1",
+    "contactPriority": "P1 – verificare",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-033",
@@ -921,7 +1337,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website confirmat; locație de reverificat",
+    "websitePresence": "Website vechi/alternativ",
+    "websiteUrl": "http://www.restaurantdinar.ro/",
+    "websiteSource": "https://wanderlog.com/ro/place/details/2059323/restaurant-dinar",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Există pagini vechi și un microsite Wix, însă o sursă recentă marchează locația permanent închisă.",
+    "websiteImprovement": "Confirmați statutul; dacă este activă, relansați domeniul cu date actuale. Dacă este închisă, eliminați listările și înlocuiți oprirea din rută.",
+    "websiteOperationalNote": "Statut operațional contradictoriu; confirmare telefonică obligatorie.",
+    "websitePriority": "P1",
+    "contactPriority": "P1 – verificare",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-034",
@@ -949,7 +1378,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial neconfirmat",
+    "websitePresence": "Domeniu menționat în surse",
+    "websiteUrl": "http://www.joypubtm.ro/",
+    "websiteSource": "https://visit-timis.ro/joy-pub",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniul este listat de surse locale, dar prezența actuală este în principal Facebook/meniu BoostEat.",
+    "websiteImprovement": "Reactivați/consolidați domeniul cu program sportiv, rezervări de mese și evenimente; redirecționați meniul extern.",
+    "websiteOperationalNote": "Locație activă; website-ul propriu nu a putut fi confirmat complet.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-035",
@@ -977,7 +1419,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "http://www.harolds.ro/",
+    "websiteSource": "https://www.restaurants10.com/RO/Timisoara/238947509470758/Restaurant-Harold%27s",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniu propriu confirmat, dar informațiile de program diferă între surse.",
+    "websiteImprovement": "Publicați programul actual și excepțiile pentru evenimente private, treceți pe HTTPS și adăugați rezervări online.",
+    "websiteOperationalNote": "Website confirmat; programul trebuie reverificat.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-036",
@@ -1005,7 +1460,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "http://www.paradisulpiratilor.ro/",
+    "websiteSource": "https://timisoara.cylex.ro/firma/paradisul%2Bpiratilor-1198561.html",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniu propriu identificat; calitatea și actualitatea conținutului nu au fost confirmate din rezultatele indexate.",
+    "websiteImprovement": "Treceți pe HTTPS, modernizați mobilul, publicați meniu/program/evenimente și rezervări cu confirmare.",
+    "websiteOperationalNote": "Website și adresă confirmate de surse locale.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-037",
@@ -1033,7 +1501,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Nu am găsit website oficial",
+    "websitePresence": "Fără domeniu confirmat",
+    "websiteUrl": "",
+    "websiteSource": "https://zilesinopti.ro/locuri/anturaj-timisoara/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Sursele publice arată telefon și adresă, dar fără website oficial.",
+    "websiteImprovement": "Creați domeniu propriu cu meniu, rezervări, seri tematice și galerie; optimizați pentru căutări locale după numele generic Anturaj.",
+    "websiteOperationalNote": "Locație confirmată; website propriu negăsit.",
+    "websitePriority": "P1",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-038",
@@ -1061,7 +1542,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/vineri15/",
+    "websiteSource": "https://visit-timis.ro/vineri-15",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Prezență activă pe Facebook, fără domeniu propriu confirmat.",
+    "websiteImprovement": "Creați site pentru meniu, program, evenimente și rezervări; domeniul vineri15.ro ar fi natural dacă este disponibil/controlat.",
+    "websiteOperationalNote": "Locație confirmată; website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-039",
@@ -1089,7 +1583,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://zazarestopub.ro/",
+    "websiteSource": "https://zazarestopub.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site propriu cu meniu, program și contact; catalogul de produse este foarte lung.",
+    "websiteImprovement": "Îmbunătățiți filtrarea meniului pe mobil, adăugați rezervare persistentă și pagină separată pentru catering/evenimente.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-040",
@@ -1117,7 +1624,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/darcpemal/",
+    "websiteSource": "https://www.facebook.com/darcpemal/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Nu a fost identificat un domeniu propriu separat; prezența este socială și asociată brandului D'Arc.",
+    "websiteImprovement": "Creați pagină de locație în același domeniu de brand, cu calendar de evenimente, bilete/rezervări și program sezonier.",
+    "websiteOperationalNote": "Website propriu negăsit; confirmați activitatea sezonieră.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-041",
@@ -1145,7 +1665,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://curteaberarilortimisoara.ro/",
+    "websiteSource": "https://curteaberarilortimisoara.ro/contact/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site actual cu meniu și program; denumirea de pe site este Curtea Berarilor la Han.",
+    "websiteImprovement": "Aliniați numele cu listările, scurtați meniul pe mobil și adăugați rezervări de grup/evenimente cu ofertă.",
+    "websiteOperationalNote": "Website și adresă confirmate; denumirea necesită aliniere.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Echipă flexibilă pentru evenimente și seri cu volum mare.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-042",
@@ -1173,7 +1706,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media / brand comun",
+    "websiteUrl": "https://www.facebook.com/CurteaBerarilorTimisoreana/",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Sursele locale trimit la Facebook-ul Curtea Berarilor; nu a fost confirmată o pagină proprie pentru locația din fabrică.",
+    "websiteImprovement": "Creați pagină separată de locație cu adresă, program, meniu și evenimente, ca să nu fie confundată cu Curtea Berarilor la Han.",
+    "websiteOperationalNote": "Website dedicat negăsit; locația trebuie confirmată separat.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Echipă flexibilă pentru evenimente și seri cu volum mare.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-043",
@@ -1201,7 +1747,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://restaurant-merlot.ro/",
+    "websiteSource": "https://restaurant-merlot.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site propriu cu meniu, evenimente și contact; aspectul și textele par învechite.",
+    "websiteImprovement": "Modernizați designul mobil, adăugați rezervare directă, pagini pentru corporate și imagini optimizate; corectați redactarea.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-044",
@@ -1229,7 +1788,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial neconfirmat",
+    "websitePresence": "Domeniu menționat în surse",
+    "websiteUrl": "https://porto-arte.ro/",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniul este menționat de sursa locală, dar nu a fost accesibil în verificare.",
+    "websiteImprovement": "Verificați uptime/HTTPS și indexarea; relansați pagina cu evenimente, terasă, meniu, rezervări și contact pentru organizatori.",
+    "websiteOperationalNote": "Locație listată; website-ul nu a putut fi confirmat.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Echipă flexibilă pentru evenimente și seri cu volum mare.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-045",
@@ -1257,7 +1829,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://pescada.ro/",
+    "websiteSource": "https://pescada.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site cu rezervare și meniu, dar afișează ore eronate în footer (12:00AM–12:00PM) și testimoniale generice repetate.",
+    "websiteImprovement": "Corectați programul, înlocuiți testimonialele demonstrative cu recenzii verificabile, corectați textele și creați pagini separate pentru locații.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-046",
@@ -1285,7 +1870,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu multi-locație",
+    "websiteUrl": "https://tinecz.ro/",
+    "websiteSource": "https://tinecz.ro/comenzi/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site actual cu locații, comenzi și date legale; ruta are un telefon vechi față de site.",
+    "websiteImprovement": "Actualizați CRM-ul cu telefoanele curente, adăugați rezervare per locație și pagină de evenimente/cariere multi-site.",
+    "websiteOperationalNote": "Website și adresă confirmate; telefonul din rută trebuie actualizat.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-047",
@@ -1313,7 +1911,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://smokingbbqbar.ro/",
+    "websiteSource": "https://smokingbbqbar.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site bogat în conținut, dar foarte lung, cu spațiere excesivă și navigare greoaie.",
+    "websiteImprovement": "Simplificați arhitectura, adăugați meniu comandabil/rezervare persistentă, optimizați imaginile și secțiunea de cariere.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-048",
@@ -1341,7 +1952,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Nu am găsit website oficial",
+    "websitePresence": "Fără domeniu confirmat",
+    "websiteUrl": "",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Căutarea nu a produs un website oficial asociat clar adresei din rută.",
+    "websiteImprovement": "Confirmați locația și brandul; creați landing page cu meniu, program, rezervări și hartă, plus profil Google verificat.",
+    "websiteOperationalNote": "Prezența online insuficientă; confirmați înaintea vizitei.",
+    "websitePriority": "P1",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-049",
@@ -1369,7 +1993,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.sabres.ro/",
+    "websiteSource": "https://www.sabres.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site modern, cu evenimente și contact; mai multe telefoane apar pe pagini diferite.",
+    "websiteImprovement": "Afișați un număr principal unic, adăugați rezervare online și cerere de ofertă pentru evenimente cu tracking.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-050",
@@ -1397,7 +2034,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu cu e-commerce",
+    "websiteUrl": "https://www.zonecafe.ro/",
+    "websiteSource": "https://www.zonecafe.ro/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site complet pentru comandă, dar pagina principală este foarte lungă și dominată de catalog.",
+    "websiteImprovement": "Separați clar dine-in, rezervări și delivery, optimizați filtrarea meniului și creați pagină dedicată locației Uranus.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P3",
+    "barGigScore": 3,
+    "websiteOpportunity": "Pilot pe vârfurile de dimineață și weekend/concedii.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-051",
@@ -1425,7 +2075,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial neconfirmat",
+    "websitePresence": "Domeniu menționat în surse",
+    "websiteUrl": "https://www.olivebistro.ro/",
+    "websiteSource": "https://www.timisoara-info.ro/infocentru/alimentatie",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniul este menționat de sursa municipală, dar nu a fost accesibil în verificare.",
+    "websiteImprovement": "Verificați domeniul/HTTPS; dacă este inactiv, relansați site simplu cu meniu, program, rezervare și poziționare de bistro de cartier.",
+    "websiteOperationalNote": "Locația este listată; website-ul nu a putut fi confirmat.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-052",
@@ -1453,7 +2116,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.restaurant-valahia.ro/",
+    "websiteSource": "https://www.restaurant-valahia.ro/contact/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site propriu cu program și contact; experiența pare veche și nu scoate în față evenimentele.",
+    "websiteImprovement": "Modernizați mobilul, adăugați rezervare și formular de ofertă pentru evenimente, plus meniul în HTML și imagini optimizate.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-053",
@@ -1481,7 +2157,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/profile.php?id=61585618736915",
+    "websiteSource": "https://www.cniptarad.ro/ro/harta-locatie/464-focaccia-romana",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Locație nouă, confirmată de CNIPT; comunicarea este doar pe Facebook.",
+    "websiteImprovement": "Creați landing page rapid cu meniu, comandă/ridicare, program și povestea produsului; optimizați pentru căutări locale.",
+    "websiteOperationalNote": "Locație confirmată; website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-054",
@@ -1509,7 +2198,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu multi-locație",
+    "websiteUrl": "https://blvckcoffee.ro/locatii/",
+    "websiteSource": "https://blvckcoffee.ro/locatii/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site modern de brand, cu locația Arad și program; numărul local nu este proeminent.",
+    "websiteImprovement": "Adăugați pagină dedicată Arad cu telefon, hartă, meniu și oportunități de lucru; implementați tracking pe locație.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 3,
+    "websiteOpportunity": "Pilot pe vârfurile de dimineață și weekend/concedii. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-055",
@@ -1537,7 +2239,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/Bar-Hazard-Arad-122636707791946",
+    "websiteSource": "https://www.cniptarad.ro/ro/harta-locatie/164-bar-hazard",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "CNIPT confirmă locația; prezența online este o pagină Facebook veche, fără domeniu propriu.",
+    "websiteImprovement": "Creați site cu program actual, meniu, evenimente, rezervări și verificare Google; actualizați numele Hazard/Hazzard consecvent.",
+    "websiteOperationalNote": "Locație confirmată; website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-056",
@@ -1565,7 +2280,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://moocoffee.ro/",
+    "websiteSource": "https://www.cniptarad.ro/ro/harta-locatie/461-moo-coffee",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "CNIPT indică domeniul oficial și confirmă adresa; conținutul site-ului nu a fost indexat suficient pentru audit complet.",
+    "websiteImprovement": "Faceți pagina Arad indexabilă, cu meniu, program, povestea cafelei/laptelui local și CTA de fidelizare.",
+    "websiteOperationalNote": "Website și adresă confirmate prin sursa locală.",
+    "websitePriority": "P3",
+    "contactPriority": "P3",
+    "barGigScore": 3,
+    "websiteOpportunity": "Pilot pe vârfurile de dimineață și weekend/concedii.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-057",
@@ -1593,7 +2321,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.lapergola.ro/",
+    "websiteSource": "https://firmania.ro/arad/la-pergola-ristorante-pizzeria-124887",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniu propriu confirmat; site-ul are nevoie de verificare vizuală aprofundată, dar datele locale sunt consistente.",
+    "websiteImprovement": "Actualizați designul mobil, meniul HTML, rezervarea și formularul pentru evenimente; adăugați schema Restaurant.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P3",
+    "barGigScore": 3,
+    "websiteOpportunity": "Pilot pe vârfurile de dimineață și weekend/concedii.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-058",
@@ -1621,7 +2362,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Nu am găsit website oficial",
+    "websitePresence": "Social media veche",
+    "websiteUrl": "https://www.facebook.com/DiplomatCafe",
+    "websiteSource": "https://turism-autorizat.ro/structuri/diplomat-cafe-arad",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Nu există domeniu propriu; sursa de autorizare indică firma operatoare radiată în 2026.",
+    "websiteImprovement": "Nu investiți în audit web înainte de confirmarea existenței. Dacă locația continuă sub alt operator, creați identitate și domeniu noi, cu date legale actuale.",
+    "websiteOperationalNote": "Risc ridicat: confirmați sau înlocuiți oprirea înaintea vizitei.",
+    "websitePriority": "P1",
+    "contactPriority": "P1 – verificare",
+    "barGigScore": 3,
+    "websiteOpportunity": "Pilot pe vârfurile de dimineață și weekend/concedii.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-059",
@@ -1649,7 +2403,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://cafein.ro/",
+    "websiteSource": "https://www.cniptarad.ro/ro/harta-locatie/370-cafein",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniu propriu și date locale confirmate; programul este scurt și trebuie afișat foarte clar.",
+    "websiteImprovement": "Puneți programul și harta deasupra foldului, adăugați meniu, precomandă și abonament/fidelizare pentru clienții de dimineață.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P3",
+    "barGigScore": 3,
+    "websiteOpportunity": "Pilot pe vârfurile de dimineață și weekend/concedii.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-060",
@@ -1677,7 +2444,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Microsite pe platformă",
+    "websiteUrl": "https://oliv.metro.rest/?lang=ro",
+    "websiteSource": "https://oliv.metro.rest/?lang=ro",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Există un microsite funcțional pe platformă, dar fără domeniu propriu și cu diferențe de telefon față de rută.",
+    "websiteImprovement": "Creați domeniu propriu, confirmați telefonul unic, integrați rezervarea și meniul și păstrați microsite-ul doar ca sursă secundară.",
+    "websiteOperationalNote": "Locație confirmată; telefonul din rută trebuie reverificat.",
+    "websitePriority": "P2",
+    "contactPriority": "P3",
+    "barGigScore": 3,
+    "websiteOpportunity": "Pilot pe vârfurile de dimineață și weekend/concedii.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-061",
@@ -1705,7 +2485,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.curteavechearad.ro/",
+    "websiteSource": "https://firmania.ro/arad/curtea-veche-312868",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniu propriu confirmat, dar Facebook apare încă drept website în mai multe directoare.",
+    "websiteImprovement": "Consolidați toate listările către domeniul propriu, adăugați rezervări/evenimente și eliminați programele contradictorii.",
+    "websiteOperationalNote": "Website și adresă confirmate; programul diferă între surse.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-062",
@@ -1733,7 +2526,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/saharacaffearad",
+    "websiteSource": "https://wanderlog.com/ro/place/details/13536655/sahara-caffe-arad",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Prezență pe Facebook, fără domeniu propriu; programul diferă între surse.",
+    "websiteImprovement": "Creați site cu meniu, program verificat, rezervări și politici clare pentru narghilea; actualizați toate directoarele.",
+    "websiteOperationalNote": "Locație confirmată; website propriu negăsit și program nealiniat.",
+    "websitePriority": "P2",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-063",
@@ -1761,7 +2567,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Doar social media / platformă",
+    "websitePresence": "Social media",
+    "websiteUrl": "https://www.facebook.com/RestaurantDamici",
+    "websiteSource": "https://www.cniptarad.ro/public/ro/harta-locatie/367-restaurant-damici",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "CNIPT confirmă doar Facebook; nu a fost găsit domeniu propriu.",
+    "websiteImprovement": "Creați site cu meniu, rezervări, livrare și evenimente; includeți date legale și schema Restaurant.",
+    "websiteOperationalNote": "Locație confirmată; website propriu negăsit.",
+    "websitePriority": "P2",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-064",
@@ -1789,7 +2608,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Nu am găsit website oficial",
+    "websitePresence": "Fără prezență confirmată",
+    "websiteUrl": "",
+    "websiteSource": "https://arad.24fun.ro/locuri/c/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Căutarea după nume și adresă nu a confirmat un website sau profil oficial actual.",
+    "websiteImprovement": "Confirmați existența și denumirea; dacă este activă, creați landing page și profil Google cu program, meniu și contact.",
+    "websiteOperationalNote": "Existența/prezența actuală nu a putut fi confirmată suficient.",
+    "websitePriority": "P1",
+    "contactPriority": "P1 – verificare",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-065",
@@ -1817,7 +2649,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Nu am găsit website oficial",
+    "websitePresence": "Fără domeniu confirmat",
+    "websiteUrl": "",
+    "websiteSource": "https://www.cniptarad.ro/ro/harta?area=city&type=leisure",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Nu a fost identificat un website oficial; apar doar mențiuni informale recente despre brand.",
+    "websiteImprovement": "Confirmați adresa și operatorul, apoi creați site cu meniu asiatic, program, rezervări și comenzi.",
+    "websiteOperationalNote": "Prezența online nu a putut fi confirmată suficient.",
+    "websitePriority": "P1",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-066",
@@ -1845,7 +2690,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.art-cafe.ro/",
+    "websiteSource": "https://www.cniptarad.ro/ro/harta-locatie/127-art-cafe",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniu și adresă confirmate; rezervările sunt gestionate și prin platforme terțe.",
+    "websiteImprovement": "Puneți rezervarea directă și meniul pe domeniul propriu, adăugați program actual și pagină de evenimente/seri tematice.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-067",
@@ -1873,7 +2731,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website confirmat; locație de reverificat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://pizza-coandi.ro/",
+    "websiteSource": "https://pizza-coandi.ro/termeni-si-conditii/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site-ul afișează simultan mesaj de suspendare pe perioadă nedeterminată și postări recente de meniu/comenzi.",
+    "websiteImprovement": "Eliminați contradicția, publicați statutul și programul real, data ultimei actualizări și un singur flux de comandă.",
+    "websiteOperationalNote": "Conflict major privind activitatea; confirmați înaintea vizitei.",
+    "websitePriority": "P1",
+    "contactPriority": "P1 – verificare",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-068",
@@ -1901,7 +2772,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial neconfirmat",
+    "websitePresence": "Domeniu atribuit în sursă",
+    "websiteUrl": "http://restaurant-don.ro/",
+    "websiteSource": "https://www.cniptarad.ro/en/harta-locatie/84-restaurantul-transilvania",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "CNIPT atribuie domeniul restaurant-don.ro, care nu corespunde numelui Transilvania și nu a fost confirmat.",
+    "websiteImprovement": "Confirmați operatorul și domeniul; creați/actualizați o pagină cu brandul corect, meniu, program și rezervări.",
+    "websiteOperationalNote": "Locația este listată, dar website-ul și brandul nu au putut fi corelate sigur.",
+    "websitePriority": "P2",
+    "contactPriority": "P1 – verificare",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-069",
@@ -1929,7 +2813,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu multi-locație",
+    "websiteUrl": "https://euphoria.ro/restaurant-arad/",
+    "websiteSource": "https://euphoria.ro/evenimente/euphoria-biergarten-arad/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Site de grup cu pagină și meniu pentru Arad; informația este distribuită între mai multe pagini/PDF.",
+    "websiteImprovement": "Creați hub unic pentru Arad cu meniu HTML, rezervare și evenimente; evitați ca PDF-ul să fie singura sursă de meniu.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Echipă flexibilă pentru evenimente și seri cu volum mare. Abordare recomandată: contract-cadru/pilot replicabil pe mai multe locații.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-070",
@@ -1957,7 +2854,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Nu am găsit website oficial",
+    "websitePresence": "Fără domeniu confirmat",
+    "websiteUrl": "",
+    "websiteSource": "https://www.cniptarad.ro/ro/harta?area=city&type=leisure",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Nu a fost identificat un website oficial asociat clar adresei din rută.",
+    "websiteImprovement": "Confirmați locația și profilul oficial; creați site cu meniu, program, rezervări și evenimente, optimizat pentru numele generic Kharma.",
+    "websiteOperationalNote": "Prezența web nu a putut fi confirmată suficient.",
+    "websitePriority": "P1",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-071",
@@ -1985,7 +2895,20 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "http://www.irish-pub.ro/",
+    "websiteSource": "https://zilesinopti.ro/locuri/irish-pub-house/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniu propriu listat, dar alte surse trimit la Takeaway; site-ul folosește HTTP și poate fi vechi.",
+    "websiteImprovement": "Migrați la HTTPS, actualizați programul și meniul, adăugați calendar de evenimente și rezervări de grup.",
+    "websiteOperationalNote": "Website și adresă confirmate de surse locale; actualitatea site-ului trebuie verificată.",
+    "websitePriority": "P3",
+    "contactPriority": "P1",
+    "barGigScore": 5,
+    "websiteOpportunity": "Pilot pentru 2 seri de weekend + acoperire no-show/eveniment.",
+    "websiteDataVersion": 1
   },
   {
     "id": "seed-072",
@@ -2013,6 +2936,19 @@ window.BARGIG_SEED = [
       "hosting": false
     },
     "photos": [],
-    "createdAt": "2026-11-25T12:00:00.000Z"
+    "createdAt": "2026-11-25T12:00:00.000Z",
+    "websiteStatus": "Website oficial confirmat",
+    "websitePresence": "Domeniu propriu",
+    "websiteUrl": "https://www.bottega.ro/",
+    "websiteSource": "https://zilesinopti.ro/locuri/la-bottega-beergrill/",
+    "websiteCheckedAt": "25.11.2026",
+    "websiteAudit": "Domeniu propriu și contact confirmate; numele generic Bottega poate crea confuzie în căutări.",
+    "websiteImprovement": "Creați pagină locală Arad optimizată, cu meniu, program, evenimente pe mal și rezervări; folosiți titluri locale consecvente.",
+    "websiteOperationalNote": "Website și adresă confirmate.",
+    "websitePriority": "P3",
+    "contactPriority": "P2",
+    "barGigScore": 4,
+    "websiteOpportunity": "Pilot 2–3 ture în cină/weekend și back-up pentru absențe.",
+    "websiteDataVersion": 1
   }
 ];

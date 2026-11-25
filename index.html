@@ -93,6 +93,23 @@
         <label><input type="checkbox" id="offerHosting"><span><b>BarGig WebSpace</b><small>Website la nume.bargig.ro</small></span></label>
       </div></fieldset>
 
+      <fieldset class="website-section">
+        <legend>Website și oportunitate digitală</legend>
+        <div class="form-grid">
+          <label>Status website<select id="websiteStatus"></select></label>
+          <label>Tip prezență<input id="websitePresence" placeholder="Website propriu, social media…"></label>
+          <label class="wide">Website / profil oficial<input type="url" id="websiteUrl" inputmode="url" placeholder="https://..."></label>
+          <div class="website-actions wide"><a id="websiteOpen" class="secondary hidden" href="#" target="_blank" rel="noopener">Deschide website-ul</a><span id="websiteCheckedLabel" class="muted small"></span></div>
+          <label class="wide">Probleme identificate<textarea id="websiteAudit" rows="3" placeholder="Probleme de conținut, conversie, consistență sau funcționare…"></textarea></label>
+          <label class="wide">Ce putem îmbunătăți<textarea id="websiteImprovement" rows="4" placeholder="Recomandări concrete pentru website…"></textarea></label>
+          <label class="wide">Oportunitate comercială BarGig<textarea id="websiteOpportunity" rows="2"></textarea></label>
+          <label class="wide">Notă operațională<textarea id="websiteOperationalNote" rows="2"></textarea></label>
+          <label class="wide">Sursa verificării<input type="url" id="websiteSource" inputmode="url" placeholder="https://..."></label>
+          <label>Data verificării<input type="date" id="websiteCheckedAt"></label>
+          <label>Prioritate digitală<input id="websitePriority" placeholder="P1, P2, P3…"></label>
+        </div>
+      </fieldset>
+
       <label class="block">Rezumat / comentarii<textarea id="notes" rows="5" placeholder="Ce am discutat? Obiecții, nevoi, următorul pas…"></textarea></label>
       <label class="block">Pitch recomandat<textarea id="pitch" rows="3"></textarea></label>
 

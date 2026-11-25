@@ -3,3 +3,13 @@
 @media(max-width:900px){main{padding:24px 18px 100px}.topbar{padding-left:18px;padding-right:18px}.stats{grid-template-columns:repeat(2,1fr)}.visit-card{grid-template-columns:60px 1fr auto}.visit-meta{grid-column:2/3;border:0;padding:0}.pipeline-grid,.insight-grid{grid-template-columns:repeat(2,1fr)}.offer-checks{grid-template-columns:1fr}.photos{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:620px){.offline-pill span{display:none}.hero{display:block}.hero .primary{width:100%;margin-top:18px}.hero h1{font-size:2.3rem}.stats{grid-template-columns:1fr 1fr}.stat{padding:14px}.stat strong{font-size:1.5rem}.toolbar,.pipeline-controls{grid-template-columns:1fr}.visit-card{grid-template-columns:52px 1fr}.card-actions{grid-column:1/-1}.card-actions button{width:auto;flex:1;padding:0 12px}.pipeline-grid,.insight-grid{grid-template-columns:1fr}.form-grid{grid-template-columns:1fr}.form-grid .wide{grid-column:auto}.sheet form{padding:18px}.photos{grid-template-columns:repeat(2,1fr)}.sheet-actions{grid-template-columns:1fr 1fr}.sheet-actions span{display:none}.offer-row{grid-template-columns:120px 1fr 35px}.tabs{position:sticky;top:76px;background:#08121ef2;z-index:10}.tab{flex:1}.topbar{height:70px}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+.insight-grid{grid-template-columns:repeat(4,1fr)}
+.website-section{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:22px 0}
+.website-actions{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.website-actions .secondary{display:inline-flex;text-decoration:none;align-items:center;justify-content:center}
+.website-chip.site-ok{background:#123b35;border-color:#286b5f;color:#8cebd7}
+.website-chip.site-warn{background:#4b3420;border-color:#76552f;color:#ffd080}
+.website-chip.site-social{background:#26375f;border-color:#40598d;color:#b9caff}
+.website-chip.site-missing{background:#45262c;border-color:#703b45;color:#ffb3ba}
+@media(max-width:900px){.insight-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:620px){.insight-grid{grid-template-columns:1fr}.website-actions .secondary{width:100%}}
